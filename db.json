@@ -1,0 +1,35 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "xenon12",
+      "email": "akarshnair007@gmail.com",
+      "password": "$2b$10$nJ577CrIRrFK1hw2GBVj7uPBXNI0izyisA.k8oA3.n26uf49k0vee"
+    },
+    {
+      "id": 2,
+      "username": "mohanx12",
+      "email": "mohan@gmail.com",
+      "password": "$2b$10$JJhp6Dw80mzQLpcnofQfLun8iglf5eNzr6jr0KeRv7lKp3kkBPSi2"
+    },
+    {
+      "id": 3,
+      "username": "kirax12",
+      "email": "kira@gmail.com",
+      "password": "$2b$10$fSOmYQpCWiGLr7V4mjqxJeESZG3zeUnH0vmEETL6NAU.NT55rmT/6"
+    },
+    {
+      "id": 4,
+      "username": "jason123",
+      "email": "jason@gmail.com",
+      "password": "$2b$10$ejkacTjDWc4DtfwEo4QaYOhH4ZqbwEJN7jyxzlQArTLMFxDvV55Y6"
+    }
+  ],
+  "message": [
+    {
+      "id": 1,
+      "username": "kirax12",
+      "message": "Hey it me kira"
+    }
+  ]
+}
